@@ -17,9 +17,6 @@ for each test T:
 ```
 
 # Improvements
-### Caching the Fibonacci Numbers
-Instead of generating the numbers for each test case, we can precompute and cache the values. 
-We use a variable-size data structure, or we can use a fixed-size structure by verifying the largest Fibonacci number within our constraints. In this case, the 81st term is the largest.
 
 ### Generate only the even Fibonacci Numbers
 If we look at the sequence of the first few even Fibonacci numbers,
