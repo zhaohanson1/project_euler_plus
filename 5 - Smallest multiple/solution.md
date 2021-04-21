@@ -22,11 +22,11 @@ This can be computed in many ways, but we will choose a way that allows us to pr
 
 The LCM can be computed using the GCD using the following formula,
 <div align='center'>
-  <img src="<img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\bg_white&space;\large&space;lcm(a,b)&space;=&space;\frac{|a&space;\cdot&space;b|}{gcd(a,b)}" title="\large lcm(a,b) = \frac{|a \cdot b|}{gcd(a,b)}" />" />
-  </div>
-Also, 
-<div align='center'>
-<img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\bg_white&space;\large&space;lcm(a_1,a_2,\ldots,&space;a_n)&space;=&space;lcm((a_1,a_2,\ldots,a_{n-1}&space;),&space;a_n)" title="\large lcm(a_1,a_2,\ldots, a_n) = lcm((a_1,a_2,\ldots,a_{n-1} ), a_n)" />
+  <img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\bg_white&space;\large&space;lcm(a,b)&space;=&space;\frac{|a&space;\cdot&space;b|}{gcd(a,b)}" />
+</div>
+
+Also, <div align='center'>
+<img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\bg_white&space;\large&space;lcm(a_1,a_2,\ldots,&space;a_n)&space;=&space;lcm((a_1,a_2,\ldots,a_{n-1}&space;),&space;a_n)" />
 </div>
 
 which breaks down recursively to, 
@@ -37,3 +37,6 @@ which breaks down recursively to,
 So, we can compute the LCMs with dynamic programming by refering to the previous LCMs.
 
 Then for each test, we can simply return the nth LCM.
+
+
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/edit/master/5%20-%20Smallest%20multiple/solution.py)
