@@ -10,7 +10,7 @@ while True:
   output i
 ```
 
-## Better
+## Optimized
 We can see this is just the general defintion of the least common multiple. 
 
 Formally, we want to compute
@@ -35,6 +35,8 @@ which breaks down recursively to,
 </div>
 
 So, we can compute the LCMs with dynamic programming by refering to the previous LCMs.
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\bg_white&space;\large&space;\begin{align*}&space;lcm(1,2)&space;\\&space;lcm(1,2,3)&space;&=&space;lcm(lcm(1,2),&space;3)&space;\\&space;\cdots&space;\\&space;lcm(1,2,...,N)&space;&=&space;lcm(lcm(1,2,...N-1),&space;N)&space;\end{align*}" title="\large \begin{align*} lcm(1,2) \\ lcm(1,2,3) &= lcm(lcm(1,2), 3) \\ \cdots \\ lcm(1,2,...,N) &= lcm(lcm(1,2,...N-1), N) \end{align*}" />
 
 Then for each test, we can simply return the nth LCM.
 
