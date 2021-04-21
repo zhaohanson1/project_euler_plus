@@ -37,5 +37,5 @@ Print the values corresponding to each test case.
 
 For **2 x 2** as shown in statement above.
 
-[Solution](https://github.com/zhaohanson1/project_euler_plus/new/master/15%20-%20Lattice%20paths/solution.md)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/15%20-%20Lattice%20paths/solution.md)
 
