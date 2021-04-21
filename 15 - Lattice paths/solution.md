@@ -75,3 +75,8 @@ So, our final equation to compute is
   </div>
   
  [Solution code](https://github.com/zhaohanson1/project_euler_plus/blob/master/15%20-%20Lattice%20paths/solution.cpp)
+
+
+### Additional Sources
+https://cp-algorithms.com/combinatorics/binomial-coefficients.html#toc-tgt-9
+https://www.geeksforgeeks.org/compute-ncr-p-set-3-using-fermat-little-theorem/
