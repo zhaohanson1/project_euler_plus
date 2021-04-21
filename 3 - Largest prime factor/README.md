@@ -1,5 +1,5 @@
 # Project Euler #3: Largest prime factor
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/3%20-%20Largest%20prime%20factor/solution.cpp)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/3%20-%20Largest%20prime%20factor/solution.md)
 
 The prime factors of **13195** are **5, 7, 13** and **29**.
 
@@ -28,7 +28,6 @@ For each test case, display the largest prime factor of **N*
 ```
 5
 17
-
 ```
 
 **Explanation 0**
