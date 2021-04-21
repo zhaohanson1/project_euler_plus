@@ -74,4 +74,4 @@ So, our final equation to compute is
   <img src="https://latex.codecogs.com/gif.latex?[(n!&space;\mod&space;m)&space;\cdot&space;((k!)^{-1}&space;\mod&space;m)&space;\cdot&space;(((n-k)!)^{-1}&space;\mod&space;m)]&space;\mod&space;m" title="[(n! \mod m) \cdot ((k!)^{-1} \mod m) \cdot (((n-k)!)^{-1} \mod m)] \mod m" />
   </div>
   
- [Solution code](https://github.com/zhaohanson1/project_euler_plus/blob/master/15%20-%20Lattice%20paths/solution.md)
+ [Solution code](https://github.com/zhaohanson1/project_euler_plus/blob/master/15%20-%20Lattice%20paths/solution.cpp)
