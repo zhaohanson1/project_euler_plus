@@ -1,6 +1,6 @@
 # Project Euler #15: Lattice paths
 
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/15%20-%20Lattice%20paths/solution.md)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/015%20-%20Lattice%20paths/solution.md)
 
 Starting in the top left corner of a **2 x 2**  grid, and only being able to move to the right and down, there are exactly **6** routes to the bottom right corner.
 
