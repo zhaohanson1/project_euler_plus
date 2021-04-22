@@ -25,4 +25,4 @@ Then, we can precompute all sum square differences in linear time.
 
 Compared to the previous method, we compute a relatively smaller number.
 
-[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/6%20-%20Sum%20square%20difference/solution.py)
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/006%20-%20Sum%20square%20difference/solution.py)
