@@ -20,7 +20,7 @@ ll modMult(ll a, ll b, int mod)
     {
         if (b & 1)
             res = (res + a) % mod;
-        a = (2 * a) % mod;
+        a = (a << 1) % mod;
         b >>= 1;
     }
     return res;
