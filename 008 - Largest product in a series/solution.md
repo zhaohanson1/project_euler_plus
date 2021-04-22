@@ -19,4 +19,4 @@ When we have zeros in our sequence, we treat our current product as zero, but ke
 When we have no more zeros, then we can treat our product as nonzero and compare it to the current maximum.
 
 
-[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/8%20-%20Largest%20product%20in%20a%20series/solution.cpp)
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/008%20-%20Largest%20product%20in%20a%20series/solution.cpp)
