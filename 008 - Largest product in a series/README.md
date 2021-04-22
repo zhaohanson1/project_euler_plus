@@ -1,5 +1,5 @@
 # Project Euler #8: Largest product in a series
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/8%20-%20Largest%20product%20in%20a%20series/solution.md)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/008%20-%20Largest%20product%20in%20a%20series/solution.md)
 
 Find the greatest product of **K** consecutive digits in the **N** digit number.
 
