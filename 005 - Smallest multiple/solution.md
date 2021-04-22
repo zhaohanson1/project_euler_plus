@@ -41,4 +41,4 @@ So, we can compute the LCMs with dynamic programming by refering to the previous
 Then for each test, we can simply return the nth LCM.
 
 
-[Solution Code](https://github.com/zhaohanson1/project_euler_plus/edit/master/5%20-%20Smallest%20multiple/solution.py)
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/edit/master/005%20-%20Smallest%20multiple/solution.py)
