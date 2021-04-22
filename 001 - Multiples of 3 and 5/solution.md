@@ -25,4 +25,4 @@ To sum up to a<sub>n</sub>, we can compute this in O(1) time using Gauss' Formul
   <img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\bg_white&space;\frac{a(a&plus;1)}{2}&space;&plus;&space;\frac{b(b&plus;1)}{2}&space;-&space;\frac{c(c&plus;1)}{2}" title="\frac{a(a+1)}{2} + \frac{b(b+1)}{2} - \frac{c(c+1)}{2}" />
  </div>
  
-[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/1%20-%20Multiples%20of%203%20and%205/solution.py)
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/001%20-%20Multiples%20of%203%20and%205/solution.py)
