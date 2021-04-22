@@ -71,6 +71,6 @@ To compute the product of a sequence, this is similar to Problem 8
 where we using a sliding window technique to move our sequence 
 and keep track of the number of zeros in our current window to know when our product is non-zero.
 
-[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/11%20-%20Largest%20product%20in%20a%20grid/solution.py)
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/011%20-%20Largest%20product%20in%20a%20grid/solution.py)
 
-[Solution Code Annotated](https://github.com/zhaohanson1/project_euler_plus/blob/master/11%20-%20Largest%20product%20in%20a%20grid/solution_annotated.py)
+[Solution Code Annotated](https://github.com/zhaohanson1/project_euler_plus/blob/master/011%20-%20Largest%20product%20in%20a%20grid/solution_annotated.py)
