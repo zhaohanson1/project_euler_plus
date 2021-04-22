@@ -1,5 +1,5 @@
 # Project Euler #6: Sum square difference
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/6%20-%20Sum%20square%20difference/solution.md)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/006%20-%20Sum%20square%20difference/solution.md)
 
 The sum of the squares of the first ten natural numbers is, **1<sup>2</sup> + 2<sup>2</sup> + ... + 10<sup>2</sup> = 385**. 
 
