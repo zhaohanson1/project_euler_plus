@@ -27,6 +27,6 @@ To do this, we can take our prefix sum list, and have a key that is the last pri
 Then, we can perform binary search on this list for N where we look for the greatest number that is less than or equal to N.
 
 ##
-With these two improvements, we reduce the problem from O(N) search for each test case to O(log n).
+With these two improvements, we reduce the problem from O(N) search for each test case to O(log N).
 
 [Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/010%20-%20Summation%20of%20primes/solution.cpp)
