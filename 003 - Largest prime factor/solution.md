@@ -33,8 +33,8 @@ All unmarked numbers are prime
 
 However, our largest value for N is 10<sup>12</sup>, and generating all primes up to this number will take up a lot of memory. 
 
-
-[Solution code](https://github.com/zhaohanson1/project_euler_plus/blob/master/003%20-%20Largest%20prime%20factor/solution.cpp)
 > (Note, we only need to generate primes up to floor(sqrt(10<sup>12</sup>)) + 1, since no factor of any number smaller than 10<sup>12</sup> will be larger than this number, but this still takes quite a bit of memory.)
 
 We can use the [segmented version of the sieve](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Segmented_sieve) instead. 
+
+[Solution code](https://github.com/zhaohanson1/project_euler_plus/blob/master/003%20-%20Largest%20prime%20factor/solution.cpp)
