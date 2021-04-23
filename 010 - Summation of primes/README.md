@@ -1,5 +1,7 @@
 # Project Euler #10: Summation of primes
 
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/010%20-%20Summation%20of%20primes/solution.md)
+
 The sum of the primes below **10** is **2+3+5+7=17**.
 
 Find the sum of all the primes not greater than given **N** .
