@@ -1,6 +1,6 @@
 # Project Euler #13: Large sum
 
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/013%20-%20Large%20Sum/solution.cpp)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/013%20-%20Large%20Sum/solution.md)
 
 Work out the first ten digits of the sum of **N 50-** numbers.
 
