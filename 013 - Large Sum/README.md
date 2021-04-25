@@ -2,7 +2,7 @@
 
 [Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/013%20-%20Large%20Sum/solution.cpp)
 
-Work out the first ten digits of the sum of **N 50-**numbers.
+Work out the first ten digits of the sum of **N 50-** numbers.
 
 ### Input Format
 
