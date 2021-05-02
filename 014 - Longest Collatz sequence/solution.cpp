@@ -40,7 +40,7 @@ void setup_collatz() {
             for (int k=0; k<stack.size(); k++) {
                 ll curr = stack[k];
                 if (curr < MAX_BOUND)
-                    longest_collatz[curr] = max(longest_collatz[curr], count);
+                    longest_collatz[curr] = count;
                 count--;
             }
         }
