@@ -35,6 +35,6 @@ Instead of recomputing the sum everytime, we can store the partial sum along wit
 Searching for the correct term naively would still take linear time, but we can use binary search with the maximum term as our key 
 and find the largest term that is smaller than or equal to N.
 
-Doing so reduces our summation operation time from O(n) to O(log n).
+Doing so reduces our summation operation time from O(n) to a search operation of O(log n).
 
 [Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/002%20-%20Even%20Fibonacci%20numbers/solution.py)
