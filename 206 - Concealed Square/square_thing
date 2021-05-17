@@ -1,0 +1,71 @@
+1 2 3 4 5 6 7 8 9 0
+
+1000000000000000000
+
+1020304050607080900
+
+1929394959697989990
+
+x0 -> x0^2
+x1 = (x0 + 1)
+
+x1^2 = (x0 + 1)^2 = x0^2 + 2x0 + 1
+xn^2 = (x0 + n)^2 = x0^2 + (2nx0 + n^2)
+
+In base 10, a square number can end only with digits 0, 1, 4, 5, 6 or 9, as follows:
+
+if the last digit of a number is 0, its square ends in 0 (in fact, the last two digits must be 00);
+if the last digit of a number is 1 or 9, its square ends in 1;
+if the last digit of a number is 2 or 8, its square ends in 4;
+if the last digit of a number is 3 or 7, its square ends in 9;
+if the last digit of a number is 4 or 6, its square ends in 6; and
+if the last digit of a number is 5, its square ends in 5 (in fact, the last two digits must be 25).
+
+
+example:
+start = 1010101010 -> 1020304050403020100
+	1 should be a 9 -> jump 800
+	800 = 2n
+
+	1010101011 -> 
+-> 
+1020304052423222121
+1020304052627282920
+1020304054443424144
+0000000001010101010
+
+Strategy: for the first half, choose all combinations
+			for the 2nd half, iterate b/w each combination
+
+Suppose number is 10^x. Let n = (x-1)/2.
+
+If we were to try all possible combinations of blanks, this is 10^n.
+n can go up to 15 -> 10^15 combinations
+Alternatively, iterate through all sqrts of the full number within range. 
+This is sqrt(10^(x+1)-sqrt(10^(x)) ~= 10^x/2 ~= 10^n
+
+If we combine both efforts,
+	notice that at each iteration, the number changes by at least 10^n, so we dont have to choose the lower digits
+
+This leaves us with choosing 10^(n/2) and iterating through at most 10?
+
+
+
+Compute floor and ceil of range
+
+sqrt(floor) = number of length k
+1111111111
+
+For the first n-k digits, choose/fix approriate digits
+keep track of "iter" idx
+	-> 00000 --> 10203040506070809000
+	-> 00001 --> 10203040516070809000
+
+iterate until k-1 digit changes -> (n % 10^(k-1)) % 10 or similar idk
+
+Runtime is 10^n.
+
+
+1929374254627488900
+1_2_3_4_5_6_7_8_9_0
+
