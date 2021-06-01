@@ -49,7 +49,9 @@ Two cases we need to be careful
     * In this case, we make sure we end our loop correctly while make sure we count if the month starts on a Sunday.
 
 ## Miscellaneous
-    
+
+This algorithm is feasible because although the difference in bounds of the possible years is O(10<sup>16</sup>), the gap between year 1 and year 2 is at most 1000 years, meaning we have at most O(12 * 1000) = 12000 iterations.
+
 [Zeller's Congruence](https://en.wikipedia.org/wiki/Zeller%27s_congruence) is a formula that calculates the day of week for any calendar date. This can be used instead of counting leap years to get the firs date.
 
 ***
