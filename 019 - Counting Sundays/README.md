@@ -1,4 +1,4 @@
-# Project Euler #13: Large sum
+# Project Euler #19: Counting Sundays
 
 [Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/019%20-%20Counting%20Sundays/solution.md)
 
