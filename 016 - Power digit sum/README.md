@@ -1,6 +1,6 @@
 # Project Euler #16: Power digit sum
 
-[Solution]()
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/016%20-%20Power%20digit%20sum/solution.md)
 
 **2<sup>9</sup> = 512** and the sum of its digits is **5 + 1 + 2 = 8**.
 
