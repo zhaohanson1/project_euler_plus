@@ -1,5 +1,5 @@
-# project_euler_plus
-Solutions to HackerRank's Project Euler+
+# Project Euler Plus
+Solutions to HackerRank's Project Euler+ with explanations. Solution also applies to ProjectEuler.net's problems unless stated otherwise.
 
 #### TODO
 * Problem 22 README solution.md
