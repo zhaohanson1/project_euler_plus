@@ -1,6 +1,6 @@
 # Project Euler #17: Number to Words
 
-[Solution]()
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/017%20-%20Number%20to%20Words/solution-plus.md)
 
 The numbers **1** to **5** written out in words are 
 
@@ -50,7 +50,7 @@ Follow the rules given in statement.
 
 ### Number letter counts
 #### Problem 17
-[Solution]()
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/017%20-%20Number%20to%20Words/solution-classic.md)
 
 If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
 
