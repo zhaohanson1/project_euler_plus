@@ -1,6 +1,6 @@
 # Project Euler #13: Large sum
 
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/019%20-%20Counting%20Sundays/solution.py)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/019%20-%20Counting%20Sundays/solution.md)
 
 You are given the following information, but you may prefer to do some research for yourself.
 
