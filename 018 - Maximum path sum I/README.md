@@ -1,6 +1,6 @@
 # Project Euler #18: Maximum path sum I
 
-[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/019%20-%20Counting%20Sundays/solution.md)
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/018%20-%20Maximum%20path%20sum%20I/solution.md)
 
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is **23**. 
 The path is denoted by numbers in bold.
