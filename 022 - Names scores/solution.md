@@ -34,3 +34,10 @@ This requires O(n) extra space, but achieves amortized O(1) time.
 # Classic
 
 Straightforward: read all names from file, sort, iterate and calculate rank times score, return sum
+
+I used this as a file reading challenge:
+- The names are delimited by a comma
+- The number of names is "unknown" (not given by problem)
+
+
+[Solution Classic](https://github.com/zhaohanson1/project_euler_plus/blob/master/022%20-%20Names%20scores/solution-classic.cpp)
