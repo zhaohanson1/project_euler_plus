@@ -32,7 +32,8 @@ There are better methods that can support larger numbers and may be faster,
 but this method is simple implementation-wise, since it reuses the addition method.
 
 [Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/020%20-%20Factorial%20digit%20sum/solution.cpp)
-#
+### Further Reading
 
-https://en.wikipedia.org/wiki/Multiplication_algorithm
+https://en.wikipedia.org/wiki/Multiplication_algorithm  
+
 https://en.wikipedia.org/wiki/Exponentiation_by_squaring
