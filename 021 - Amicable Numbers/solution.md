@@ -1,8 +1,3 @@
-* Generating/Finding Amicable Numbers (up to 10^5)
-  * sum of proper divisors
-  * traversal and checking if d(a)=b, d(b)=a
-  * lookup
-
 ### Generating Amicable Numbers
 
 We can iterate through all numbers up to our constraint and test which are amicable. 
