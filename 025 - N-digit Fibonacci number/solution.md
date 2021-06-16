@@ -16,3 +16,6 @@ As we generate and check the Fibonacci numbers, we store the order in a seperate
 We start with "1" in the 0th idx, then "7" in the 1st idx (because F_7 = 13), and so on.  
 We see that the (n-1)th index contains the order of the first term with n digits.   
 Thus, the time complexity for each query is O(1).
+
+
+[Solution Code](https://github.com/zhaohanson1/project_euler_plus/blob/master/025%20-%20N-digit%20Fibonacci%20number/solution.cpp)
