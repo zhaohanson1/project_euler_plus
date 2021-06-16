@@ -1,4 +1,6 @@
-# Project Euler #23: Non-abundant sums
+# Plus
+
+## Project Euler #23: Non-abundant sums
 
 [Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/023%20-%20Non-abundant%20sums/solution.md)
 
@@ -37,3 +39,7 @@ Print the values corresponding to each test case.
 YES
 NO
 ```
+
+# Classic
+
+Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
