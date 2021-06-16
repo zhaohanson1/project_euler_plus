@@ -1,5 +1,7 @@
 # Project Euler #24: Lexicographic permutations
 
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/024%20-%20Lexicographic%20permutations/solution.md)
+
 A permutation is an ordered arrangement of objects. 
 For example, **dabc** is one possible permutation of the word **abcs**. 
 If all of the permutations are listed alphabetically, we call it lexicographic order. The lexicographic permutations of **abc** are:
