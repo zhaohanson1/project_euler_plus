@@ -1,5 +1,7 @@
 # Project Euler #25: N-digit Fibonacci number
 
+[Solution](https://github.com/zhaohanson1/project_euler_plus/blob/master/025%20-%20N-digit%20Fibonacci%20number/solution.md)
+
 The Fibonacci sequence is defined by the recurrence relation:
   <div align='center'>
   <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;F_n&space;=&space;F_{n-1}&plus;F_{n-2},&space;\text{where&space;}F_1=1\text{&space;and&space;}F_2=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;F_n&space;=&space;F_{n-1}&plus;F_{n-2},&space;\text{where&space;}F_1=1\text{&space;and&space;}F_2=1" title="F_n = F_{n-1}+F_{n-2}, \text{where }F_1=1\text{ and }F_2=1" /></a>
